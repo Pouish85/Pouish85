@@ -6,9 +6,9 @@
 
 - 🌍 &nbsp; I'm from 🇫🇷 France
 - 🔭 &nbsp; I’m currently working on **several projects**
-- 🌱 &nbsp; I’m currently learning NestJs;
+- 🌱 &nbsp; I’m currently learning NestJs
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pouish85?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - ⚡ &nbsp; Fun fact: Big Fan of Star Wars
 <br>
 </div>
